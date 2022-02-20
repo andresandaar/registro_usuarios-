@@ -41,6 +41,7 @@ build/Release
 node_modules/
 jspm_packages/
 main.js
+nota git.txt
 
 # TypeScript v1 declaration files
 typings/
